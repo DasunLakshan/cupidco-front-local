@@ -1,0 +1,1 @@
+# cupidco-front-local
